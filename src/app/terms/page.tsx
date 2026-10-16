@@ -14,7 +14,7 @@ export default function TermsOfService() {
           Terms of Service
         </h1>
         <p className="text-sm text-gray-500 mb-12">
-          Last updated: {new Date().toLocaleDateString("en-GB", { day: "numeric", month: "long", year: "numeric" })}
+         Last updated: 24 February 2025
         </p>
 
         <div className="space-y-10 text-[16px] text-slate leading-[1.8]">
